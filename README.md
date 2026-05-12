@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sun Lvquan</h1>
+<h1 align="center">Hi, I'm Sun Lvquan</h1>
 
 <h3 align="center">
-  Computer Vision | Deep Learning | AI Agent | Digital Twin
+  Computer Vision | AI Agent 
 </h3>
 
 <p align="center">
