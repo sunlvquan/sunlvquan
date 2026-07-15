@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Sun Lvquan</h1>
-
 <h3 align="center">
-  Computer Vision | AI Agent 
+  Computer Vision
 </h3>
 
 <p align="center">
@@ -12,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm currently focusing on **Computer Vision**, **Deep Learning**, and **AI Agent applications**.
+I'm currently focusing on **Computer Vision**, **Deep Learning**.
 
 ---
 
